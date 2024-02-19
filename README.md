@@ -1,8 +1,8 @@
 # NYT Web Scraper
 
-This scraper program is designed to retrieve articles from the New York Times website using two methods: the NY Times API and general web scraping techniques.
+This scraper program is designed to retrieve articles from the New York Times website in two steps using the NY Times API and general web scraping techniques.
 
-***Please note***: We are only able to use web scraping to retrieve articles in the second phase because we have a digital subscription to the NY Times. Without a subscription, web scraping may be in violation of the NY Times' terms of service. Please use this program responsibly and ensure that you have the appropriate permissions before using it.
+***Please note***: We can use web scraping to retrieve articles in the second phase because we have a digital subscription to the NY Times. Without a subscription, web scraping may violate the NY Times' terms of service. Please ensure that you have the appropriate permissions before using it.
 
 
 ## NY Times API
