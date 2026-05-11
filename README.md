@@ -16,4 +16,4 @@ After that, we use web scraping to retrieve the article text. We use the Seleniu
 2. Parse the html and obtain text data 
 3. Add a column to the pandas dataframe that contains the entire text. 
 
-The code was adapted starting from [this repository](https://github.com/brienna/coronavirus-news-analysis). 
+The code was adapted starting from [this repository](https://github.com/brienna/coronavirus-news-analysis), so please also check the original scripts.
